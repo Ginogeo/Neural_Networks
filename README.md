@@ -1,2 +1,2 @@
 # Neural_Networks
- Just learned more about Machine learning and made a convoutional neural network(CNN) 
+ Just learned more about Machine learning and made a convolutional neural network(CNN) 
